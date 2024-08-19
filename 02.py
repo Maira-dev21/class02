@@ -90,7 +90,6 @@ print(sam)
 # F and T = F
 # F and F = F
 
-# hello
 #  For OR operator
 # T or T = T
 # T or F = T
