@@ -84,6 +84,7 @@ print(d)
 sam = 4>=5
 print(sam)
 
+
 #  For AND operator
 # T and T = T
 # T and F = F
